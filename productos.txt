@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Celular Samsung",
+    "price": 212.23,
+    "thumbnail": "imagen1.com",
+    "id": 1
+  },
+  {
+    "title": "Celular Motorola",
+    "price": 942.19,
+    "thumbnail": "imagen2.com",
+    "id": 2
+  },
+  {
+    "title": "Celular Apple",
+    "price": 1534.79,
+    "thumbnail": "imagen3.com",
+    "id": 3
+  }
+]
