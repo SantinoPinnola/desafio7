@@ -10,7 +10,7 @@ function randomNum(min, max) {
 const app = express();
 
 
-const puerto = 3000;
+const puerto = 8080;
 
 let visita1 = 0;
 let visita2 = 0;
